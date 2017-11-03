@@ -1,31 +1,3 @@
-==========> Opened at 2017-11-03 15:24:26.2974078 +0100 CET
-debug Executing [spatial.exe worker_package unpack-to worker_sdk core-dynamic-x86-win32 C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86-win32]
-debug Current directory = C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity
-debug Found project root at C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject
-debug Found version '12.0.1' in file C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\spatialos.json
-debug Skipping extraction of [C:\Users\grazi\AppData\Local\.improbable\toolbelt\cache\worker_package\59edb0e1351b09eb2e4fe1f046530026d8b29af9\worker_sdk\12.0.1\core-dynamic-x86-win32.zip] to C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86-win32. Nothing has changed.
-info 'spatial.exe worker_package unpack-to worker_sdk core-dynamic-x86-win32 C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86-win32' succeeded category=success duration=0.3s
-==========> Opened at 2017-11-03 15:24:28.8037036 +0100 CET
-debug Executing [spatial.exe worker_package unpack-to worker_sdk core-dynamic-x86_64-win32 C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86_64-win32]
-debug Current directory = C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity
-debug Found project root at C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject
-debug Found version '12.0.1' in file C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\spatialos.json
-debug Skipping extraction of [C:\Users\grazi\AppData\Local\.improbable\toolbelt\cache\worker_package\f5e3365f80a0fe506bd318da59d5ed108359925f\worker_sdk\12.0.1\core-dynamic-x86_64-win32.zip] to C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86_64-win32. Nothing has changed.
-info 'spatial.exe worker_package unpack-to worker_sdk core-dynamic-x86_64-win32 C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86_64-win32' succeeded category=success duration=0.2s
-==========> Opened at 2017-11-03 15:42:09.1189897 +0100 CET
-debug Executing [spatial.exe worker_package unpack-to worker_sdk core-dynamic-x86-win32 C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86-win32]
-debug Current directory = C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity
-debug Found project root at C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject
-debug Found version '12.0.1' in file C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\spatialos.json
-debug Skipping extraction of [C:\Users\grazi\AppData\Local\.improbable\toolbelt\cache\worker_package\59edb0e1351b09eb2e4fe1f046530026d8b29af9\worker_sdk\12.0.1\core-dynamic-x86-win32.zip] to C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86-win32. Nothing has changed.
-info 'spatial.exe worker_package unpack-to worker_sdk core-dynamic-x86-win32 C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86-win32' succeeded duration=0.2s category=success
-==========> Opened at 2017-11-03 15:42:11.5649041 +0100 CET
-debug Executing [spatial.exe worker_package unpack-to worker_sdk core-dynamic-x86_64-win32 C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86_64-win32]
-debug Current directory = C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity
-debug Found project root at C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject
-debug Found version '12.0.1' in file C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\spatialos.json
-debug Skipping extraction of [C:\Users\grazi\AppData\Local\.improbable\toolbelt\cache\worker_package\f5e3365f80a0fe506bd318da59d5ed108359925f\worker_sdk\12.0.1\core-dynamic-x86_64-win32.zip] to C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86_64-win32. Nothing has changed.
-info 'spatial.exe worker_package unpack-to worker_sdk core-dynamic-x86_64-win32 C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86_64-win32' succeeded category=success duration=0.2s
 ==========> Opened at 2017-11-03 15:46:29.0964727 +0100 CET
 debug Executing [spatial.exe worker_package unpack-to worker_sdk core-dynamic-x86-win32 C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86-win32]
 debug Current directory = C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity
@@ -68,3 +40,31 @@ debug Found project root at C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTea
 debug Found version '12.0.1' in file C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\spatialos.json
 debug Skipping extraction of [C:\Users\grazi\AppData\Local\.improbable\toolbelt\cache\worker_package\f5e3365f80a0fe506bd318da59d5ed108359925f\worker_sdk\12.0.1\core-dynamic-x86_64-win32.zip] to C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86_64-win32. Nothing has changed.
 info 'spatial.exe worker_package unpack-to worker_sdk core-dynamic-x86_64-win32 C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86_64-win32' succeeded category=success duration=0.2s
+==========> Opened at 2017-11-03 16:46:54.3664122 +0100 CET
+debug Executing [spatial.exe worker_package unpack-to worker_sdk core-dynamic-x86-win32 C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86-win32]
+debug Current directory = C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity
+debug Found project root at C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject
+debug Found version '12.0.1' in file C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\spatialos.json
+debug Skipping extraction of [C:\Users\grazi\AppData\Local\.improbable\toolbelt\cache\worker_package\59edb0e1351b09eb2e4fe1f046530026d8b29af9\worker_sdk\12.0.1\core-dynamic-x86-win32.zip] to C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86-win32. Nothing has changed.
+info 'spatial.exe worker_package unpack-to worker_sdk core-dynamic-x86-win32 C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86-win32' succeeded duration=0.2s category=success
+==========> Opened at 2017-11-03 16:46:57.0466783 +0100 CET
+debug Executing [spatial.exe worker_package unpack-to worker_sdk core-dynamic-x86_64-win32 C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86_64-win32]
+debug Current directory = C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity
+debug Found project root at C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject
+debug Found version '12.0.1' in file C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\spatialos.json
+debug Skipping extraction of [C:\Users\grazi\AppData\Local\.improbable\toolbelt\cache\worker_package\f5e3365f80a0fe506bd318da59d5ed108359925f\worker_sdk\12.0.1\core-dynamic-x86_64-win32.zip] to C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86_64-win32. Nothing has changed.
+info 'spatial.exe worker_package unpack-to worker_sdk core-dynamic-x86_64-win32 C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86_64-win32' succeeded duration=0.3s category=success
+==========> Opened at 2017-11-03 16:47:10.3273301 +0100 CET
+debug Executing [spatial.exe worker_package unpack-to worker_sdk core-dynamic-x86-win32 C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86-win32]
+debug Current directory = C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity
+debug Found project root at C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject
+debug Found version '12.0.1' in file C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\spatialos.json
+debug Skipping extraction of [C:\Users\grazi\AppData\Local\.improbable\toolbelt\cache\worker_package\59edb0e1351b09eb2e4fe1f046530026d8b29af9\worker_sdk\12.0.1\core-dynamic-x86-win32.zip] to C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86-win32. Nothing has changed.
+info 'spatial.exe worker_package unpack-to worker_sdk core-dynamic-x86-win32 C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86-win32' succeeded duration=0.2s category=success
+==========> Opened at 2017-11-03 16:47:12.2613324 +0100 CET
+debug Executing [spatial.exe worker_package unpack-to worker_sdk core-dynamic-x86_64-win32 C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86_64-win32]
+debug Current directory = C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity
+debug Found project root at C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject
+debug Found version '12.0.1' in file C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\spatialos.json
+debug Skipping extraction of [C:\Users\grazi\AppData\Local\.improbable\toolbelt\cache\worker_package\f5e3365f80a0fe506bd318da59d5ed108359925f\worker_sdk\12.0.1\core-dynamic-x86_64-win32.zip] to C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86_64-win32. Nothing has changed.
+info 'spatial.exe worker_package unpack-to worker_sdk core-dynamic-x86_64-win32 C:\Users\grazi\OneDrive\Documenti\GitHub\ProgettoTeam1\StarterProject\workers\unity\Assets\Plugins\Improbable\CoreSdk\core-dynamic-x86_64-win32' succeeded duration=0.2s category=success

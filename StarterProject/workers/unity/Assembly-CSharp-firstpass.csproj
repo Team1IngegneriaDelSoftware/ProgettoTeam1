@@ -222,19 +222,19 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
  </Reference>
  <Reference Include="Generated.Code">
- <HintPath>C:/Users/grazi/OneDrive/Documenti/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Dll/Generated.Code.dll</HintPath>
+ <HintPath>C:/Users/AMODEO/Documents/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Dll/Generated.Code.dll</HintPath>
  </Reference>
  <Reference Include="Improbable.WorkerSdkCsharp">
- <HintPath>C:/Users/grazi/OneDrive/Documenti/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Dll/Improbable.WorkerSdkCsharp.dll</HintPath>
+ <HintPath>C:/Users/AMODEO/Documents/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Dll/Improbable.WorkerSdkCsharp.dll</HintPath>
  </Reference>
  <Reference Include="Improbable.WorkerSdkCsharp.Framework">
- <HintPath>C:/Users/grazi/OneDrive/Documenti/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Dll/Improbable.WorkerSdkCsharp.Framework.dll</HintPath>
+ <HintPath>C:/Users/AMODEO/Documents/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Dll/Improbable.WorkerSdkCsharp.Framework.dll</HintPath>
  </Reference>
  <Reference Include="System.Threading">
- <HintPath>C:/Users/grazi/OneDrive/Documenti/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Dll/System.Threading.dll</HintPath>
+ <HintPath>C:/Users/AMODEO/Documents/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Dll/System.Threading.dll</HintPath>
  </Reference>
  <Reference Include="Improbable.UnityDll">
- <HintPath>C:/Users/grazi/OneDrive/Documenti/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Dll/Unity/Improbable.UnityDll.dll</HintPath>
+ <HintPath>C:/Users/AMODEO/Documents/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Dll/Unity/Improbable.UnityDll.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

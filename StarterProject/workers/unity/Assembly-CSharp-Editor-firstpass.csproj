@@ -127,6 +127,9 @@
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
  </Reference>
+ <Reference Include="UnityEditor.Android.Extensions">
+ <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.LinuxStandalone.Extensions">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll</HintPath>
  </Reference>
@@ -137,34 +140,34 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Generated.Code">
- <HintPath>C:/Users/grazi/OneDrive/Documenti/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Dll/Generated.Code.dll</HintPath>
+ <HintPath>C:/Users/AMODEO/Documents/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Dll/Generated.Code.dll</HintPath>
  </Reference>
  <Reference Include="Improbable.WorkerSdkCsharp">
- <HintPath>C:/Users/grazi/OneDrive/Documenti/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Dll/Improbable.WorkerSdkCsharp.dll</HintPath>
+ <HintPath>C:/Users/AMODEO/Documents/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Dll/Improbable.WorkerSdkCsharp.dll</HintPath>
  </Reference>
  <Reference Include="Improbable.WorkerSdkCsharp.Framework">
- <HintPath>C:/Users/grazi/OneDrive/Documenti/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Dll/Improbable.WorkerSdkCsharp.Framework.dll</HintPath>
+ <HintPath>C:/Users/AMODEO/Documents/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Dll/Improbable.WorkerSdkCsharp.Framework.dll</HintPath>
  </Reference>
  <Reference Include="System.Threading">
- <HintPath>C:/Users/grazi/OneDrive/Documenti/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Dll/System.Threading.dll</HintPath>
+ <HintPath>C:/Users/AMODEO/Documents/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Dll/System.Threading.dll</HintPath>
  </Reference>
  <Reference Include="Improbable.UnityDll">
- <HintPath>C:/Users/grazi/OneDrive/Documenti/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Dll/Unity/Improbable.UnityDll.dll</HintPath>
+ <HintPath>C:/Users/AMODEO/Documents/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Dll/Unity/Improbable.UnityDll.dll</HintPath>
  </Reference>
  <Reference Include="Improbable.Unity.EditorAddon.SpatialBuild">
- <HintPath>C:/Users/grazi/OneDrive/Documenti/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Editor/Addons/Improbable.Unity.EditorAddon.SpatialBuild.dll</HintPath>
+ <HintPath>C:/Users/AMODEO/Documents/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Editor/Addons/Improbable.Unity.EditorAddon.SpatialBuild.dll</HintPath>
  </Reference>
  <Reference Include="Improbable.Unity.EditorAddon.SpatialConnect">
- <HintPath>C:/Users/grazi/OneDrive/Documenti/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Editor/Addons/Improbable.Unity.EditorAddon.SpatialConnect.dll</HintPath>
+ <HintPath>C:/Users/AMODEO/Documents/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Editor/Addons/Improbable.Unity.EditorAddon.SpatialConnect.dll</HintPath>
  </Reference>
  <Reference Include="Improbable.Unity.EditorAddon.SpatialLocal">
- <HintPath>C:/Users/grazi/OneDrive/Documenti/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Editor/Addons/Improbable.Unity.EditorAddon.SpatialLocal.dll</HintPath>
+ <HintPath>C:/Users/AMODEO/Documents/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Editor/Addons/Improbable.Unity.EditorAddon.SpatialLocal.dll</HintPath>
  </Reference>
  <Reference Include="Improbable.Unity.EditorAddon.SpatialUpload">
- <HintPath>C:/Users/grazi/OneDrive/Documenti/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Editor/Addons/Improbable.Unity.EditorAddon.SpatialUpload.dll</HintPath>
+ <HintPath>C:/Users/AMODEO/Documents/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Editor/Addons/Improbable.Unity.EditorAddon.SpatialUpload.dll</HintPath>
  </Reference>
  <Reference Include="Improbable.EditorDll">
- <HintPath>C:/Users/grazi/OneDrive/Documenti/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Editor/Dll/Editor/Improbable.EditorDll.dll</HintPath>
+ <HintPath>C:/Users/AMODEO/Documents/GitHub/ProgettoTeam1/StarterProject/workers/unity/Assets/Plugins/Improbable/Sdk/Editor/Dll/Editor/Improbable.EditorDll.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>

@@ -1,0 +1,21 @@
+
+Œ
+
+(improbable/player/ClientConnection.protoschema.improbable.playerimprobable/entity_state.proto"
+ClientDisconnectRequest"
+ClientDisconnectResponse"
+HeartbeatRequest"
+HeartbeatResponse"x
+ClientConnectionData`
+field1_timeout_beats_remaining (BÂótimeout_beats_remainingRfield1TimeoutBeatsRemaining"®
+ClientConnection
+EventsÜ
+Commandsf
+command_heartbeat_request (2*.schema.improbable.player.HeartbeatRequestRcommandHeartbeatRequesti
+command_heartbeat_response (2+.schema.improbable.player.HeartbeatResponseRcommandHeartbeatResponse|
+!command_disconnect_client_request (21.schema.improbable.player.ClientDisconnectRequestRcommandDisconnectClientRequest
+"command_disconnect_client_response (22.schema.improbable.player.ClientDisconnectResponseRcommandDisconnectClientResponse2€
+component_extension.schema.improbable.EntityStateë (2..schema.improbable.player.ClientConnectionDataRcomponentExtension2{
+event_extension.schema.improbable.EntityEventë (21.schema.improbable.player.ClientConnection.EventsReventExtension2ƒ
+command_extension .schema.improbable.EntityCommandë (23.schema.improbable.player.ClientConnection.CommandsRcommandExtension:+Âó'
+"improbable.player.ClientConnectionëBBClientConnectionOuterClass

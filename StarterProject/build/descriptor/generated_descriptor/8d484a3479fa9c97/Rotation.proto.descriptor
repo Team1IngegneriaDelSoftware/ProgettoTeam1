@@ -1,0 +1,13 @@
+
+¦
+improbable/core/Rotation.protoschema.improbable.coreimprobable/entity_state.proto improbable/core/Quaternion.proto"i
+RotationDataY
+field1_rotation (2".schema.improbable.core.QuaternionBÂórotationRfield1Rotation"©
+Rotation
+Events
+
+Commands2v
+component_extension.schema.improbable.EntityStateè (2$.schema.improbable.core.RotationDataRcomponentExtension2q
+event_extension.schema.improbable.EntityEventè (2'.schema.improbable.core.Rotation.EventsReventExtension2y
+command_extension .schema.improbable.EntityCommandè (2).schema.improbable.core.Rotation.CommandsRcommandExtension:!Âó
+improbable.core.RotationèBBRotationOuterClass

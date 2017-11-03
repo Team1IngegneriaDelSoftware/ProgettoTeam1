@@ -1,0 +1,16 @@
+
+«
+$improbable/core/PlayerCreation.protoschema.improbable.coreimprobable/entity_state.proto"
+CreatePlayerRequest"U
+CreatePlayerResponse=
+field1_status_code (BÂóstatus_codeRfield1StatusCode"
+PlayerCreationData"«
+PlayerCreation
+Eventsí
+Commandsn
+command_create_player_request (2+.schema.improbable.core.CreatePlayerRequestRcommandCreatePlayerRequestq
+command_create_player_response (2,.schema.improbable.core.CreatePlayerResponseRcommandCreatePlayerResponse2|
+component_extension.schema.improbable.EntityStateé (2*.schema.improbable.core.PlayerCreationDataRcomponentExtension2w
+event_extension.schema.improbable.EntityEventé (2-.schema.improbable.core.PlayerCreation.EventsReventExtension2
+command_extension .schema.improbable.EntityCommandé (2/.schema.improbable.core.PlayerCreation.CommandsRcommandExtension:'Âó#
+improbable.core.PlayerCreationéBBPlayerCreationOuterClass

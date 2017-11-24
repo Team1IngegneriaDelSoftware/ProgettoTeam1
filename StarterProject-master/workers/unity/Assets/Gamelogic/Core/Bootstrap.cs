@@ -8,6 +8,7 @@ using Improbable.Unity.Core;
 using Improbable.Unity.Core.EntityQueries;
 using UnityEngine;
 using Improbable.Worker;
+using UnityEngine.SceneManagement;
 
 
 namespace Assets.Gamelogic.Core
@@ -19,7 +20,10 @@ namespace Assets.Gamelogic.Core
 
         // Called when the Play button is pressed in Unity.
         public void Start()
-        {
+        {	
+			Configuration.Networking.LinkProtocol = NetworkConnectionType.Tcp;
+			Configuration.Networking.TcpMultiplexLevel = 1;
+
             SpatialOS.ApplyConfiguration(Configuration);
 
             Time.fixedDeltaTime = 1.0f / SimulationSettings.FixedFramerate;
@@ -30,16 +34,23 @@ namespace Assets.Gamelogic.Core
                 case WorkerPlatform.UnityWorker:
                     Application.targetFrameRate = SimulationSettings.TargetServerFramerate;
                     SpatialOS.OnDisconnected += reason => Application.Quit();
+					SpatialOS.Connect(gameObject);
                     break;
                 case WorkerPlatform.UnityClient:
                     Application.targetFrameRate = SimulationSettings.TargetClientFramerate;
                     SpatialOS.OnConnected += CreatePlayer;
+					SceneManager.LoadSceneAsync(BuildSettings.SplashScreenScene, LoadSceneMode.Additive);
                     break;
             }
 
             // Enable communication with the SpatialOS layer of the simulation.
             SpatialOS.Connect(gameObject);
         }
+
+		public void ConnectToClient()
+		{
+			SpatialOS.Connect(gameObject);
+		}
 
         // Search for the PlayerCreator entity in the world in order to send a CreatePlayer command.
         public void CreatePlayer()

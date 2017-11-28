@@ -1,0 +1,7 @@
+	
+package improbable.player;
+ 
+component Scores {
+    id = 1052;
+    float  scores = 1;
+}

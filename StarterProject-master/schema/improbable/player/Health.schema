@@ -1,0 +1,7 @@
+	
+package improbable.player;
+ 
+component Health {
+    id = 1051;
+    float health = 1;
+}

@@ -15,10 +15,12 @@ public class PlayerMover : MonoBehaviour {
 	[Require] private PlayerInput.Reader PlayerInputReader;
 
 	private Rigidbody rigidbody;
+	public bool space;
 
 	void OnEnable ()
 	{
 		rigidbody = GetComponent<Rigidbody>();
+		space = false;
 	}
 
 	void FixedUpdate ()
@@ -26,6 +28,7 @@ public class PlayerMover : MonoBehaviour {
 		var velocity = SimulationSettings.PlayerAcceleration;
 		var joystick = PlayerInputReader.Data.joystick;
 
+		space = joystick.space;
 		if (joystick.shift) {
 			velocity = velocity * 3;
 		}

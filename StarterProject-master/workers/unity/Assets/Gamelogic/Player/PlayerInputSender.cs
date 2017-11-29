@@ -18,6 +18,8 @@ public class PlayerInputSender : MonoBehaviour
 		bool s = Input.GetKey(KeyCode.S);
 		bool space = Input.GetKey(KeyCode.Space);
 
+		w = w || Input.GetKey (KeyCode.UpArrow);
+		s = s || Input.GetKey (KeyCode.DownArrow);
 		var update = new PlayerInput.Update();
 		update.SetJoystick(new Joystick(xAxis, yAxis, shift, w, s, space));
 		PlayerInputWriter.Send(update);

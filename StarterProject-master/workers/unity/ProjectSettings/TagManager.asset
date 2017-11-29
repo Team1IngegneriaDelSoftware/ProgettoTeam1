@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - LoseText
+  - WinText
+  - MortoText
+  - SliderHealth
+  - SliderScore
+  - Punti
   layers:
   - Default
   - TransparentFX

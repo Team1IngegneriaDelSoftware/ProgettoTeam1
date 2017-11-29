@@ -13,6 +13,7 @@ public class HealthPlayer : MonoBehaviour {
 
 	[Require] private Health.Writer HealthWriter;
 	[Require] private Position.Writer PositionWriter;
+	[Require] private Death.Writer DeathWriter;
 	private Rigidbody rigidbody;
 	private float time;
 
@@ -40,6 +41,9 @@ public class HealthPlayer : MonoBehaviour {
 				var positionUpdate = new Position.Update()
 					.SetCoords(new Coordinates(pos.x, pos.y, pos.z));
 				PositionWriter.Send(positionUpdate);
+				var update2 = new Death.Update ();
+				update2.SetDeath (true);
+				DeathWriter.Send (update2);
 
 			} else {
 				var update = new Health.Update();

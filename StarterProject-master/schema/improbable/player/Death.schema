@@ -1,0 +1,7 @@
+	
+package improbable.player;
+ 
+component Death {
+    id = 1053;
+    bool death = 1;
+}

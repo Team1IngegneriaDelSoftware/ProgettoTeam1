@@ -39,6 +39,7 @@ namespace Assets.Gamelogic.EntityTemplates
 				.AddComponent(new PlayerInput.Data(new Joystick(xAxis: 0, yAxis: 0, shift: false, w: false,s: false, space: false)), CommonRequirementSets.SpecificClientOnly(clientId))
 				.AddComponent(new Health.Data(health: 100), CommonRequirementSets.PhysicsOnly)
 				.AddComponent(new Scores.Data(scores: 0), CommonRequirementSets.PhysicsOnly)
+				.AddComponent(new Death.Data(death: false), CommonRequirementSets.PhysicsOnly)
 				.Build();
 
             return playerTemplate;
